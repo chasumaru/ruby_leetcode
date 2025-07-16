@@ -20,4 +20,3 @@ def bfs(root)
     queue << node.right if node.right
   end
 end
-
